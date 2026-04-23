@@ -7,6 +7,7 @@ matplotlib
 seaborn
 SQLAlchemy
 psycopg[binary]
+python-dotenv
 jupyterlab
 notebook
 ipykernel
